@@ -5,3 +5,6 @@ you need to make a commit!
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It allows multiple items to be included in each commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use the diff command to see what has been changed.
